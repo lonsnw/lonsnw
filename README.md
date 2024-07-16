@@ -1,16 +1,49 @@
-## Hi there 👋
+<image src=images/github-header.png width=100%>
 
-<!--
-**lonsnw/lonsnw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Lons! 👋
 
-Here are some ideas to get you started:
+I'm a software developer and technical writer with experience in the higher education, medical device, and web3 industries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📭 I'm open for work!  Please contact me at contact@lons.dev if you're looking for an entry-level software developer, a docs-as-code technical writer, or some combination of those.
+
+### Skills
+
+| 💻 Tech stack | 🛠️ Tools |
+| --- | --- |
+| Software Development Lifecycle | Agile method |
+| Material UI | Arena PLM / QMS |
+| HTML | Bitbucket |
+| CSS | Canva |
+| JavaScript | Confluence |
+| Node.js | Contentful |
+| React | DITA / Oxygen |
+| Redux | Figma |
+| Redux-Sagas | Github |
+| PostgreSQL | Google Workspace |
+| Git | Jira |
+| Markdown | Looker |
+| | MailChimp |
+| | Medtronic CCMS | 
+| | Microsoft Office |
+| | Miro |
+| | Oracle Agile |
+| | Postico | 
+| | SharePoint |
+| | VS Code |
+
+#### CliftonStrengths
+
+1. Individualization
+2. Relator
+3. Deliberative
+4. Connectedness
+5. Ideation
+6. Futuristic
+7. Adaptability
+8. Strategic
+9. Analytical
+10. Developer
+
+
+
+<image src=images/github-footer-pending.png width=100%>
