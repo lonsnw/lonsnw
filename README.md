@@ -8,6 +8,7 @@ I'm a software developer and technical writer with experience in the higher educ
 
 ## Skills
 
+<!-- BADGES -->
 ### 💻 Tech stack
 <a href="#"> <img src="images/badges/sdlc.png" alt="Software development lifecycle" height="35"></a>
 <a href="#"> <img src="images/badges/mui.png" alt="Material UI" height="35"></a>
@@ -74,4 +75,14 @@ I'm a software developer and technical writer with experience in the higher educ
 | <a href="https://github.com/lonsnw/mailchimp-app"> 🐈 Mew can do it 🐈 </a> | This mewsletter app is a very simple app built to test adding recipients to a Mailchimp newsletter using the Mailchimp marketing API. |
 | <a href="https://github.com/lonsnw/transactional-email-app"> 🐾 Momentary paws 🐾 </a> | Momentary paws is a very simple app built to test sending an inspirational HTML email using the Mailchimp transactional API. |
 
+### Sample documentation
+
+|   |   |
+| --- | --- |
+| <a href="https://docs.google.com/document/d/1Dx7jnx_YDbxs0hUD6uqEQR_CtspXngCvo_zYZyR-IfI/edit?usp=sharing"> <img src="images/logos/SKATE-30.png" alt="Two hockey skates facing away from each other and the words SKATE:30"></a> | __SKATE:30 Scope Documentation__ <br> Documentation for the solo application I built as my Prime Digital Academy capstone project |
+| <a href="https://github.com/memento-box/memento-box/blob/845c0e76f41d3ba9e3223a3875e527981a0181a8/README.md"> <img src="images/logos/memento-box.png" alt="Two stacked boxes, one at an angle, and the word Memento"></a> | __Memento Box README__ <br> README for the Memento Box group project that I built with a development team at Prime Digital Academy |
+| <a href="https://nadziejkawaller.com/information-architecture"> <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=606,h=440,fit=crop/YBgo05Z67qSR1e9W/screenshot-2023-07-17-at-11.47.57-dOqXBX3bMNf2VP52.png" alt="Screenshot of a help center"></a> | __Coinbase Cloud Help Center__ <br> I built out the initial Help Center for the Coinbase Cloud product, including editing a small amount of existing content and writing all other articles |
+| <a href="https://nadziejkawaller.com/technical-writing-layperson-audience"> <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=3600,h=2160,fit=crop/YBgo05Z67qSR1e9W/screenshot-2023-07-17-at-18.15.06-m7VE6wwLoMspkpVN.png" alt="Screenshot of a patient leaflet for a medical device"></a> | __Abre Patient Leaflet__ <br> This is leaflet written for patients that they are given after having a medical device implanted |
+
+<!-- FOOTER -->
 <a href="https://nadziejkawaller.com/lons-portfolio"><img src="images/github-footer-pending.png" alt="Banner redirecting to Lons's portfolio website" style="width:100%"></a>
