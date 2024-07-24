@@ -72,7 +72,7 @@ I'm a software developer and technical writer with experience in the higher educ
 
 |   |   |
 | --- | --- |
-| <a href="https://github.com/lonsnw/mailchimp-app"> 🐈 Mew can do it 🐈 </a> | This mewsletter app is a very simple app built to test adding recipients to a Mailchimp newsletter using the Mailchimp marketing API. |
+| <a href="https://github.com/lonsnw/mailchimp-app"> 🐈 Mewsletter 🐈 </a> | This mewsletter app is a very simple app built to test adding recipients to a Mailchimp newsletter using the Mailchimp marketing API. |
 | <a href="https://github.com/lonsnw/transactional-email-app"> 🐾 Momentary paws 🐾 </a> | Momentary paws is a very simple app built to test sending an inspirational HTML email using the Mailchimp transactional API. |
 
 ### 📑 Sample documentation
