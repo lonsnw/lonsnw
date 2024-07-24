@@ -8,8 +8,10 @@ I'm a software developer and technical writer with experience in the higher educ
 
 ### Skills
 
-| 💻 Tech stack | 🛠️ Tools |
+|  |  |
 | --- | --- |
+| 💻 Tech stack | insert |
+| 🛠️ Tools | insert |
 | Software Development Lifecycle | Agile method |
 | Material UI | Arena PLM / QMS |
 | HTML | Bitbucket |
