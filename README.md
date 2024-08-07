@@ -74,7 +74,7 @@ I'm a freelance software developer and technical writer with experience in the h
 | --- | --- |
 | <a href="https://github.com/lonsnw/mailchimp-app"> 🐈 Mewsletter 🐈 </a> | This mewsletter app is a very simple app built to test adding recipients to a Mailchimp newsletter using the Mailchimp marketing API. |
 | <a href="https://github.com/lonsnw/transactional-email-app"> 🐾 Momentary paws 🐾 </a> | Momentary paws is a very simple app built to test sending an inspirational HTML email using the Mailchimp transactional API. |
-| __CURRENT LEARNING__ | Learning Python using Codecademy. <br> Currently in progress: [Learn Python 3](https://www.codecademy.com/learn/learn-python-3) <br> Planned coursework: [Build Python Web Apps with Django](https://www.codecademy.com/learn/paths/build-python-web-apps-with-django) and [lons.dev](lons.dev) webpage buildout using Python |
+| __CURRENT LEARNING__ | Learning Python using Codecademy. <br> Currently in progress: [Learn Python 3](https://www.codecademy.com/learn/learn-python-3) <br> Planned coursework: [Build Python Web Apps with Django](https://www.codecademy.com/learn/paths/build-python-web-apps-with-django) and lons.dev webpage buildout using Python |
 | __CURRENT PROJECT__ | Writing technical documentation and some code for a single-stall and gender-neutral bathroom locator app |
 
 ### 📑 Sample documentation
