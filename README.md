@@ -46,7 +46,7 @@ I'm a freelance software developer and technical writer with experience in the h
 <a href="#"> <img src="images/badges/sharepoint.png" alt="SharePoint" height="35"></a>
 <a href="#"> <img src="images/badges/vs-code.png" alt="VS Code" height="35"></a>
 
-### CliftonStrengths
+### 💪 CliftonStrengths
 
 <a href="#"> <img src="images/badges/individualization.png" alt="Individualization" height="35"></a>
 <a href="#"> <img src="images/badges/relator.png" alt="Relator" height="35"></a>
@@ -61,28 +61,28 @@ I'm a freelance software developer and technical writer with experience in the h
 
 ## Projects
 
-### Student projects
+### 📚 Student projects
 
 |   |   |
 | --- | --- |
 | <a href="https://github.com/lonsnw/skate-30"> <img src="images/logos/SKATE-30.png" alt="Two hockey skates facing away from each other and the words SKATE:30"></a> | SKATE:30 is a web app that hockey players can use to coordinate pickup hockey and free skate times with their friends in the Twin Cities metro area. The application is optimized for mobile browsers. |
-| <a href="https://github.com/memento-box/memento-box"> <img src="images/logos/memento-box.png" alt="Two stacked boxes, on at an angle, and the word Memento"></a> | Memento Box is an application that allows users to collaborate on a gift box.  Collaborators can add videos, images, letters, and voicenotes to a gift box that they then email to the recipient, which they can then view on the website. |
+| <a href="https://github.com/lonsnw/memento-box"> <img src="images/logos/memento-box.png" alt="Two stacked boxes, on at an angle, and the word Memento"></a> | Memento Box is an application that allows users to collaborate on a gift box.  Collaborators can add videos, images, letters, and voicenotes to a gift box that they then email to the recipient, which they can then view on the website. |
 
 ### Self-taught and freelance projects
 
 |   |   |
 | --- | --- |
-| <a href="https://github.com/lonsnw/mailchimp-app"> 🐈 Mew can do it 🐈 </a> | This mewsletter app is a very simple app built to test adding recipients to a Mailchimp newsletter using the Mailchimp marketing API. |
+| <a href="https://github.com/lonsnw/mailchimp-app"> 🐈 Mewsletter 🐈 </a> | This mewsletter app is a very simple app built to test adding recipients to a Mailchimp newsletter using the Mailchimp marketing API. |
 | <a href="https://github.com/lonsnw/transactional-email-app"> 🐾 Momentary paws 🐾 </a> | Momentary paws is a very simple app built to test sending an inspirational HTML email using the Mailchimp transactional API. |
 | __CURRENT LEARNING__ | Learning Python using Codecademy. <br> Currently in progress: [Learn Python 3](https://www.codecademy.com/learn/learn-python-3) <br> Planned coursework: [Build Python Web Apps with Django](https://www.codecademy.com/learn/paths/build-python-web-apps-with-django) and [lons.dev](lons.dev) webpage buildout using Python |
 | __CURRENT PROJECT__ | Writing technical documentation and some code for a single-stall and gender-neutral bathroom locator app |
 
-### Sample documentation
+### 📑 Sample documentation
 
 |   |   |
 | --- | --- |
 | <a href="https://docs.google.com/document/d/1Dx7jnx_YDbxs0hUD6uqEQR_CtspXngCvo_zYZyR-IfI/edit?usp=sharing"> <img src="images/logos/SKATE-30.png" alt="Two hockey skates facing away from each other and the words SKATE:30"></a> | __SKATE:30 Scope Documentation__ <br> Documentation for the solo application I built as my Prime Digital Academy capstone project |
-| <a href="https://github.com/memento-box/memento-box/blob/845c0e76f41d3ba9e3223a3875e527981a0181a8/README.md"> <img src="images/logos/memento-box.png" alt="Two stacked boxes, one at an angle, and the word Memento"></a> | __Memento Box README__ <br> README for the Memento Box group project that I built with a development team at Prime Digital Academy |
+| <a href="https://github.com/lonsnw/memento-box/blob/ab363df36e60f1bebc2bb3c418dda7e96072b853/README.md"> <img src="images/logos/memento-box.png" alt="Two stacked boxes, one at an angle, and the word Memento"></a> | __Memento Box README__ <br> README for the Memento Box group project that I built with a development team at Prime Digital Academy |
 | <a href="https://nadziejkawaller.com/information-architecture"> <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=606,h=440,fit=crop/YBgo05Z67qSR1e9W/screenshot-2023-07-17-at-11.47.57-dOqXBX3bMNf2VP52.png" alt="Screenshot of a help center"></a> | __Coinbase Cloud Help Center__ <br> I built out the initial Help Center for the Coinbase Cloud product, including editing a small amount of existing content and writing all other articles |
 | <a href="https://nadziejkawaller.com/technical-writing-layperson-audience"> <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=3600,h=2160,fit=crop/YBgo05Z67qSR1e9W/screenshot-2023-07-17-at-18.15.06-m7VE6wwLoMspkpVN.png" alt="Screenshot of a patient leaflet for a medical device"></a> | __Abre Patient Leaflet__ <br> This is leaflet written for patients that they are given after having a medical device implanted |
 
