@@ -2,7 +2,7 @@
 
 # Hi there, I'm Lons! 👋
 
-I'm a software developer and technical writer with experience in the higher education, medical device, and web3 industries.
+I'm a freelance software developer and technical writer with experience in the higher education, medical device, and web3 industries.
 
 📭 I'm open for work!  Please contact me at contact@lons.dev if you're looking for an entry-level software developer, a docs-as-code technical writer, or some combination of those.
 
@@ -68,12 +68,14 @@ I'm a software developer and technical writer with experience in the higher educ
 | <a href="https://github.com/lonsnw/skate-30"> <img src="images/logos/SKATE-30.png" alt="Two hockey skates facing away from each other and the words SKATE:30"></a> | SKATE:30 is a web app that hockey players can use to coordinate pickup hockey and free skate times with their friends in the Twin Cities metro area. The application is optimized for mobile browsers. |
 | <a href="https://github.com/memento-box/memento-box"> <img src="images/logos/memento-box.png" alt="Two stacked boxes, on at an angle, and the word Memento"></a> | Memento Box is an application that allows users to collaborate on a gift box.  Collaborators can add videos, images, letters, and voicenotes to a gift box that they then email to the recipient, which they can then view on the website. |
 
-### Self-taught projects
+### Self-taught and freelance projects
 
 |   |   |
 | --- | --- |
 | <a href="https://github.com/lonsnw/mailchimp-app"> 🐈 Mew can do it 🐈 </a> | This mewsletter app is a very simple app built to test adding recipients to a Mailchimp newsletter using the Mailchimp marketing API. |
 | <a href="https://github.com/lonsnw/transactional-email-app"> 🐾 Momentary paws 🐾 </a> | Momentary paws is a very simple app built to test sending an inspirational HTML email using the Mailchimp transactional API. |
+| __CURRENT LEARNING__ | Learning Python using Codecademy. <br> Currently in progress: [Learn Python 3](https://www.codecademy.com/learn/learn-python-3) <br> Planned coursework: [Build Python Web Apps with Django](https://www.codecademy.com/learn/paths/build-python-web-apps-with-django) and [lons.dev](lons.dev) webpage buildout using Python |
+| __CURRENT PROJECT__ | Writing technical documentation and some code for a single-stall and gender-neutral bathroom locator app |
 
 ### Sample documentation
 
